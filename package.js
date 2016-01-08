@@ -10,7 +10,7 @@ var options = {
 Package.describe({
   name: options.packageName,
   summary: "LESS version of FezVrasta\"s Bootstrap theme implementing Google\"s Material (Paper) Design",
-  version: "0.3.1-dev",
+  version: options.version,
   git: "https://github.com/fezvrasta/bootstrap-material-design.git",
   documentation: "README.md"
 });
