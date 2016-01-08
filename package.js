@@ -53,8 +53,6 @@ var assets = [
 
 Package.onUse(function (api) {
   api.versionsFrom("METEOR@1.2");
-  api.use("twbs:bootstrap@3.3.1");
-  api.use("jquery");
   api.use("less");
   api.addAssets([
     // we bundle all font files, but the client will request only one of them via the CSS @font-face rule
