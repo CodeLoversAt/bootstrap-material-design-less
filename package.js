@@ -2,7 +2,7 @@
 "use strict";
 
 var options = {
-  "version": "0.3.1-dev",
+  "version": "0.3.2-dev",
   "packageName": "codelovers:bootstrap-material-design-less",
   "where": "client"
 };
